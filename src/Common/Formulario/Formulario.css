@@ -1,0 +1,59 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px;
+    width: fit-content;
+    padding-left: 244px;
+    font-size: 20px;
+}
+input[type=text]{
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 0 5px;
+    height: 30px;
+}
+input[type=checkbox]{
+    padding-left: 10px;
+    height: 40px;
+    padding: 0 5px;
+}
+
+select{
+    border-radius: 5px;
+    margin-left: 5px;
+    height: 30px;
+}
+
+.item{
+    display: flex;
+    padding: 10px 0;  
+    display: flex;
+    align-items: center;     
+}
+
+.item.rede-social{
+    display: flex;
+    flex-direction: column;
+}
+.item.rede-social.opcoes{
+    display: flex;
+    flex-direction: row;
+}
+
+.item.rede-social-opcoes{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.item.rede-social-opcoes.check{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+}
+
+.botao-enviar{
+    width: 100%;
+}
