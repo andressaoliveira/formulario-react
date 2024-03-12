@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formulario-react/static/css/main.276b607a.css",
+    "main.js": "/formulario-react/static/js/main.37549b3e.js",
+    "index.html": "/formulario-react/index.html",
+    "main.276b607a.css.map": "/formulario-react/static/css/main.276b607a.css.map",
+    "main.37549b3e.js.map": "/formulario-react/static/js/main.37549b3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.276b607a.css",
+    "static/js/main.37549b3e.js"
+  ]
+}
